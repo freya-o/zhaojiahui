@@ -1,4 +1,4 @@
-# dble-temptable exception  
+# dble-TemptableException  
 
 ## Issue 
 - WARN [complexQueryExecutor7] (com.actiontech.dble.backend.mysql.nio.handler.query.impl.BaseSelectHandler.connectionError(BaseSelectHandler.java:147)) - com.actiontech.dble.plan.common.exception.TempTableException: temptable too much rows,[rows size is 8001] 
@@ -28,5 +28,5 @@
 2. dble会根据具体的执行sql，将后端的查询结果放在内存中暂存 
 3. nestloop中临时表阈值参数为了防止OOM
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTM1NzQ5MDJdfQ==
+eyJoaXN0b3J5IjpbNDg3MzIzNzI0LC0xNTkzNTc0OTAyXX0=
 -->
