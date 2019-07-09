@@ -1,4 +1,4 @@
-# dble-maxConnections  
+# dble-MaxConnections  
 
 ## ISSUE
 
@@ -37,5 +37,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQxNTc4OTc1XX0=
+eyJoaXN0b3J5IjpbMjM0ODUzMzc1LDY0MTU3ODk3NV19
 -->
