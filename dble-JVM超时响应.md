@@ -1,4 +1,4 @@
-# dble-JVM超时响应   
+# dble-TimedOutWaitingForJVM   
 
 ## Setting  
 
@@ -39,5 +39,6 @@ jdk8之前有perm这一整块内存来存klass等信息，jvm在启动的时候�
 
 > **注意**：如果不设置MetaspaceSize，则默认的_capacity_until_GC为20M左右
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTE2NDk0MTZdfQ==
+eyJoaXN0b3J5IjpbLTE3NDU4Nzc4NzUsLTEwMTE2NDk0MTZdfQ
+==
 -->
