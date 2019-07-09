@@ -21,7 +21,7 @@
 
 1. 将注解方式：  /*#dble:type=....*/  
 改为：  /*!dble:type=....*/ 
-2. 或者在dble client端登陆时，加上 -c 选项
+2. 或者在mysql client端，加上 -c 选项
 
 >**注意**：mysql --help  
 >-c, --comments  
@@ -58,5 +58,5 @@ type有3种值可选：datanode，db_type，sql。
 - 使用注解并不额外增加的执行时间；从解析复杂度以及性能考虑，注解SQL应尽量用最简单的SQL 语句，如select id from tab_a where id=’10000’； 
 - 能不用注解也能够解决的场景，尽量不用注解
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MjU3ODM1MV19
+eyJoaXN0b3J5IjpbMTU4ODgwMDgyNywtNjkyNTc4MzUxXX0=
 -->
