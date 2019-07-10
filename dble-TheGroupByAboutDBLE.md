@@ -1,4 +1,4 @@
-# dble-TheGroupByAboutDBLE
+# dble-HowToUseParcelToResolveTheDistributionRulesOfGroupGy
 
 ## Questions  
 
@@ -117,5 +117,5 @@ mysql> select name,count(name) from eee group by name;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNTYyNTg1OV19
+eyJoaXN0b3J5IjpbMTcyNzUzMDIwOCwxNjM1NjI1ODU5XX0=
 -->
