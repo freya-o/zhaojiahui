@@ -1,4 +1,4 @@
-# dble-HowTo Use explain To Resolve The Distribution Rules Of Group Gy
+# dble-HowToUseExplainToResolveTheDistributionRulesOfGroupGy
 
 ## Questions  
 
@@ -117,5 +117,5 @@ mysql> select name,count(name) from eee group by name;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY5NDE5OTk0LDE3Mjc1MzAyMDhdfQ==
+eyJoaXN0b3J5IjpbNzk5MDY4NTQ0LDE3Mjc1MzAyMDhdfQ==
 -->
